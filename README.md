@@ -59,4 +59,4 @@ Interships Tasks for Data Science &amp; Business Analytics at The Sparks Foundat
    -  Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
    -  Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 
-Used Juypter Notebook.
+###Preferably use Jupyter Nootbook and insalled version on your computer so it will be easy to call dataset. 
